@@ -1,4 +1,4 @@
-# kusahub
+# kusa-hub
 
 ## 内容
 
@@ -43,9 +43,13 @@ TODO アプリ
 
 ## メモ
 
-githubカレンダーについて。
+**githubカレンダーについて。**
 
 1. userは0時までに完了ボタンをおすと、done tasks tableに記録される。
 2. 0時になったらcron(Laravelのタスクスケジュール)にて、集計する。
 3. 集計結果をgithubカレンダーに表示（草生やす）
 
+
+**Laravel**
+- var 9
+- livewireを利用してみる。
