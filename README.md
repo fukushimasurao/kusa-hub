@@ -5,6 +5,7 @@
 
 index: http://localhost
 phpmyadmin:http://localhost:8080/
+mailhog: http://localhost:8025/
 
 ## 内容
 
