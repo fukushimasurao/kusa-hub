@@ -1,5 +1,11 @@
 # kusa-hub
 
+## 概要
+
+
+index: http://localhost
+phpmyadmin:http://localhost:8080/
+
 ## 内容
 
 TODO アプリ
