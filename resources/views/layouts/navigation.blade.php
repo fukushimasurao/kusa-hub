@@ -34,7 +34,7 @@
                     </x-slot>
 
                     <x-slot name="content">
-                        <x-dropdown-link :href="route('profile.edit')">
+                        <x-dropdown-link :href="route('task.create')">
                             {{ __('新規作成') }}
                         </x-dropdown-link>
 
@@ -85,7 +85,7 @@
 
             <div class="mt-3 space-y-1">
 
-                <x-responsive-nav-link :href="route('profile.edit')">
+                <x-responsive-nav-link :href="route('task.create')">
                     {{ __('新規作成') }}
                 </x-responsive-nav-link>
 
